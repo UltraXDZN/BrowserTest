@@ -1,0 +1,13 @@
+D:\Zadace\Browser\Browser\Browser\bin\Debug\Browser.exe.config
+D:\Zadace\Browser\Browser\Browser\bin\Debug\Browser.exe
+D:\Zadace\Browser\Browser\Browser\bin\Debug\Browser.pdb
+D:\Zadace\Browser\Browser\Browser\bin\Debug\DotNetBrowser.WinForms.dll
+D:\Zadace\Browser\Browser\Browser\bin\Debug\DotNetBrowser.dll
+D:\Zadace\Browser\Browser\Browser\obj\Debug\Browser.csprojAssemblyReference.cache
+D:\Zadace\Browser\Browser\Browser\obj\Debug\Browser.Form1.resources
+D:\Zadace\Browser\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+D:\Zadace\Browser\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.cache
+D:\Zadace\Browser\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+D:\Zadace\Browser\Browser\Browser\obj\Debug\Browser.csproj.CopyComplete
+D:\Zadace\Browser\Browser\Browser\obj\Debug\Browser.exe
+D:\Zadace\Browser\Browser\Browser\obj\Debug\Browser.pdb
